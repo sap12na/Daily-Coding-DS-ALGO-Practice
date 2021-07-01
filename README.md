@@ -24,6 +24,7 @@ This repository contains all the popular Competitive programming questions and i
 * [50+ 50-data-structure-and-algorithms-interview-questions-for-programmers](https://hackernoon.com/50-data-structure-and-algorithms-interview-questions-for-programmers-b4b1ac61f5b0)
 
 * [100 Data Structures and Algorithms Problems Asked During Coding Interviews](https://medium.com/afteracademy/100-data-structures-and-algorithms-problems-asked-during-coding-interviews-269391b8ff8)
+* [50+ data structured and algorithms problems practice for cracking any coding interviews](https://www.geeksforgeeks.org/practice-for-cracking-any-coding-interview/#searching)
 
 * [500+ Data Structures and Algorithms Interview Questions & Practice Problems](https://blog.usejournal.com/500-data-structures-and-algorithms-practice-problems-35afe8a1e222)
 
